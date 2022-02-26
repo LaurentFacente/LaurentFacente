@@ -2,27 +2,27 @@
 
 
 #### My name is <a href='https://www.linkedin.com/in/laurent-facente-52642a232/'>Laurent !</a>
-#### I'm based in Marseille, France
-#### I'm Junior Full Stack Developer 💻 with a special affection for React ! ⚛️
+#### I'm based in **Marseille, France**
+#### I'm Junior **Full Stack Developer** 💻 with a special affection for **React** ! ⚛️
 
 
 ##### NOW
 
-- 🔨 Working on my portfolio
-- 👨‍💼  Looking for my first experience in company
-- ⚛️ Develop my knowledge on React
+- 🔨 Working on my **portfolio**
+- 👨‍💼  Looking for my first **experience in company**
+- ⚛️ Develop my knowledge on **React**
 
 ##### BIO
 
 - 👨‍🎓 I'm currently graduate form **OpenClassrooms** (Web developper, 8 months course)
-- ⚙️ I use daily: `.react`, `.js`, `.html`, `.css`, `.node.js`
+- ⚙️ I use daily: `react`, `.js`, `.html`, `.css`, `node.js`
 - 🌍 I'm active within the **React Community**
 - 🌱 Learning all about **Open Source**
 - 💭 Interested about **design**, **branding**, **development**
-- 👨‍💻 <bold>T-Shaped</bold><em> (<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> Web Developper <bold><a href="https://fr.reactjs.org/">React.js</a></bold> × <bold><a href="https://nodejs.org/en/">Node.js</a></bold>.<br/>
-- 📖 Beginner Mindset (Always want to learn !)
-- 🔗 Web3 enthusiast
-- ⚡️ Fun fact: I'm a huge fan of Star Wars 
+- 👨‍💻 **T-Shaped**<em> (<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> Web Developer <bold><a href="https://fr.reactjs.org/">React.js</a></bold> × <bold><a href="https://nodejs.org/en/">Node.js</a></bold>.<br/>
+- 📖 Beginner **Mindset** (Always want to learn !)
+- 🔗 **Web3** enthusiast
+- ⚡️ I'm a huge fan of **Star Wars** 
 
 ##### SKILLS
 
