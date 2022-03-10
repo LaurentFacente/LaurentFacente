@@ -3,7 +3,7 @@
 
 #### My name is <a href='https://www.linkedin.com/in/laurent-facente-52642a232/'>Laurent !</a>
 #### I'm based in **Marseille, France**
-#### I'm Junior **Full Stack Developer** 💻 with a special affection for **React** ! ⚛️
+#### I'm Junior **Full Stack Developer** 💻 with a special affection for **React** & **Node.js** ! ⚛️
 
 
 ##### NOW
