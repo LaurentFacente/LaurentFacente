@@ -6,12 +6,6 @@
 #### I'm Junior **Full Stack Developer** 💻 with a special affection for **React** & **Node.js** ! ⚛️
 
 
-##### NOW
-
-- 🔨 Working on my **portfolio**
-- 👨‍💼  Looking for my first **experience in company**
-- ⚛️ Develop my knowledge on **React**
-
 ##### BIO
 
 - 👨‍🎓 I'm currently graduate form **OpenClassrooms** (Web developper, 8 months course)
