@@ -8,8 +8,8 @@
 
 ##### SKILLS
 
-  ![React](https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
-  ![TypeScript](https://camo.githubusercontent.com/aae05670916876848fca0e5da6c59bb40c50ec3b07a0101ecc6502000468b240/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742532302d2532333030374143432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
+  ![React](https://img.shields.io/badge/react.js-0078d7.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-0078d7.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
