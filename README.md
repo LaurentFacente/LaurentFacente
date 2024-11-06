@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `react`, `.ts`, `material UI`, 
+- ⚙️ I use daily: `react`, `.ts`, `Next.js`
 - 💭 Interested about **design**, **branding**, **development**
 - 📖 Beginner **Mindset** (Always want to learn !)
 - ⚡️ I'm a huge fan of **Star Wars** 
