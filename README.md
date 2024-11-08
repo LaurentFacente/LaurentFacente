@@ -1,10 +1,8 @@
 ### Hello World 👋
 
-
 #### My name is <a href='https://www.linkedin.com/in/laurent-facente-52642a232/'>Laurent</a> !
 #### I'm based in **Marseille, France**
 #### I'm **Front End Developer** 🎨 specialized in **React** ! ⚛️
-
 
 ##### SKILLS
 
